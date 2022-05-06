@@ -17,7 +17,8 @@ namespace Entra21.ExemplosWhile
             {
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
-                indice = indice + 1;
+                indice = indice + 1; 
+
             }
         }
     }
