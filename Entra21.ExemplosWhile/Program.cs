@@ -2,7 +2,7 @@
 
 Console.WriteLine(@"----------------------MENU----------------------");
 1 - Exemplo 01
-2 - Exemplo 02");
+2 - Exemplo 02
 
     Console.Write("Digite a opção desejada: ");
 int opcaoDesejada = Convert.ToInt32(Console.ReadLine());
@@ -17,12 +17,14 @@ else if (opcaoDesejada == 2)
 {
     Exemplo02 nossoExemplo = new Exemplo new Exemplo02();
     nossoExemplo.Executar();
-} else if (opcaoDesejada == 3) ;
- }
+}
+else if (opcaoDesejada == 3) ;
+{ 
         Exemplo03 delesExemplo = new Exemplo03();
 delesExemplo.Executar();
 
 }
 
 
+   
    
