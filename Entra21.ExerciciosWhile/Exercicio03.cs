@@ -12,11 +12,13 @@ namespace Entra21.ExerciciosWhile
         {
             int idade = 0;
             int indice = 0;
+            int contador = 0;
 
             while (idade <= 128)
             {
                 Console.Write("Digite um número: ");
                 int idade1 = Convert.ToInt32(Console.ReadLine());
+                int contador = contador + 1;
             }
         }
 

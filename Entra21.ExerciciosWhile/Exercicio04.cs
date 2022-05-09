@@ -10,5 +10,23 @@ namespace Entra21.ExerciciosWhile
     {
         public void Executar()
 
-             //Solicitar o peso do usuário ate ser menor que 0 ou maior que 300,00
-             
+            double pesoUsuario = 0;
+        int contador = 0;
+        {
+
+            while(pesoUsuario >= 0 && pesoUsuario <= 300)
+            {
+              Console.Write("Digite o seu peso: ");
+
+            pesoUsuario = Convert.ToDouble(Console.ReadLine());
+            int contador = contador + 1;
+
+    }
+            Console.WriteLine("A quantidade de pessoas que informaram seu peso foi: " + contador);
+
+
+
+
+
+
+}
