@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entra21.ExemplosWhile
 {
     // Classe => PascalCase
-    internal class Class1
+    internal class Exemplo01
     {
         // METODO PASCALCASE
         public void Executar()

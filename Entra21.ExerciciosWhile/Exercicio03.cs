@@ -18,7 +18,7 @@ namespace Entra21.ExerciciosWhile
             {
                 Console.Write("Digite um número: ");
                 int idade1 = Convert.ToInt32(Console.ReadLine());
-                int contador = contador + 1;
+                contador = contador + 1;
             }
         }
 

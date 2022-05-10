@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Entra21.ExemplosWhile;
+using System;
 
-Console.WriteLine(@"----------------------MENU----------------------");
+Console.WriteLine(@"----------------------MENU----------------------
 1 - Exemplo 01
-2 - Exemplo 02
+2 - Exemplo 02");
 
-    Console.Write("Digite a opção desejada: ");
+Console.Write("Digite a opção desejada: ");
 int opcaoDesejada = Convert.ToInt32(Console.ReadLine());
 if (opcaoDesejada == 1)
 {
@@ -15,16 +16,15 @@ if (opcaoDesejada == 1)
 }
 else if (opcaoDesejada == 2)
 {
-    Exemplo02 nossoExemplo = new Exemplo new Exemplo02();
+    Exemplo02 nossoExemplo = new Exemplo02();
     nossoExemplo.Executar();
 }
-else if (opcaoDesejada == 3) ;
-{ 
-        Exemplo03 delesExemplo = new Exemplo03();
-delesExemplo.Executar();
+else if (opcaoDesejada == 3)
+{
+    Exemplo03 delesExemplo = new Exemplo03();
+    delesExemplo.Executar();
 
 }
 
 
-   
-   
+

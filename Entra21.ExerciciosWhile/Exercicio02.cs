@@ -12,7 +12,6 @@ namespace Entra21.ExerciciosWhile
         {
 
             string nome = "";
-            string nome = "fim";
             int quantidade = 0;
 
             while (nome != "fim")
@@ -23,7 +22,7 @@ namespace Entra21.ExerciciosWhile
             }
             string texto = "";
             
-            while (nome != "fim");
+            while (nome != "fim")
             {
                 Console.Write("Digite o nome: ");
             }
