@@ -33,20 +33,34 @@ else if (opcaoDesejada == 4)
     Exercicio04 Exercicio4 = new Exercicio04();
     Exercicio4.Executar();
 }
-    if (opcaoDesejada == 5)
-    {
+if (opcaoDesejada == 5)
+{
     Exercicio05 Exercicio5 = new Exercicio05();
     Exercicio5.Executar();
-    }
-    else if (opcaoDesejada == 6)
+}
+else if (opcaoDesejada == 6)
 {
     Exercicio07 Exercicio7 = new Exercicio07();
     Exercicio7.Executar();
 }
-    else if (opcaoDesejada == 7)
-    {
-        Exercicio07 Exercicio7 = new Exercicio07();
-        Exercicio7.Executar();
-    }
+else if (opcaoDesejada == 7)
+{
+    Exercicio07 Exercicio7 = new Exercicio07();
+    Exercicio7.Executar();
+}
 
-
+else if (opcaoDesejada == 8)
+{
+    Exercicio08 Exercicio8 = new Exercicio08();
+    Exercicio8.Executar();
+}
+else if (opcaoDesejada == 9)
+{
+    Exercicio09 Exercicio9 = new Exercicio09();
+    Exercicio9.Executar();
+}
+else if (opcaoDesejada == 10)
+{
+    Exercicio10 Exercicio10 = new Exercicio10();
+    Exercicio10.Executar();
+}
