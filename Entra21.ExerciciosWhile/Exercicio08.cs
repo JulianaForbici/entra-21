@@ -10,7 +10,13 @@ namespace Entra21.ExerciciosWhile
     {
         public void Executar()
         {
+            int contador = 0;
+            DateTime cronometro = new DateTime(2022, 12, 05)
 
+                while
+                {
+
+            }
         }
     }
 }
