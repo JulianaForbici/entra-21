@@ -10,7 +10,19 @@ namespace Entra21.ExerciciosWhile
     {
         public void Executar()
         {
+             Console.Write("Informe um número: ");
+            int numero = Convert.ToInt32(Console.ReadLine());
+            int indice = numero;
+            int fatorial = numero;
 
+            while (indice > 1)
+            {
+                indice = indice - 1;
+                numero = numero * indice;
+                
+            }
+
+            Console.WriteLine("O fatorial de " + fatorial + " é: " + numero);
         }
     }
 }

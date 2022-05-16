@@ -8,9 +8,6 @@ namespace Entra21.ExerciciosWhile
 {
     internal class Exercicio10
     {
-        public void Executar()
-        {
+       
+    
 
-        }
-    }
-}
