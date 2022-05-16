@@ -5,7 +5,6 @@ namespace Entra21.ExerciciosFor
        
         public void Executar()
         {
-            Console.Clear();
 
             var nome = false;
             var preco = false;
