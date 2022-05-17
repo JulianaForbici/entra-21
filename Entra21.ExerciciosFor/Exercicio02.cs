@@ -5,7 +5,7 @@ namespace Entra21.ExerciciosWhile
     {
         public void Executar()
         {
-            //terminar a lição 2
+            //terminar a lição 2 media dos carros soma valores dos anos e
             Console.Write("Modelo do carro: ");
             int quantidadeCarros = Conver.ToInt32(Console.ReadLine());
             double somaPrecos = 0;
