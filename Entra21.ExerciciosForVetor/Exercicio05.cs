@@ -10,7 +10,7 @@ namespace Entra21.ExerciciosForVetor
     {
         public void Executar()
         {
-
+            //Solicite para o usuário 5 pesos e apresente a soma total dos pesos e a média dos pesos.
         }
     }
 }
