@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemplosWhile", "Entra21.ExemplosWhile\Entra21.ExemplosWhile.csproj", "{A835BCAD-4A1E-479C-BD22-2E3C1D6C804E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExerciciosWhile", "Entra21.ExerciciosWhile\Entra21.ExerciciosWhile.csproj", "{12899B4D-1761-4E41-9384-9C866B989F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosWhile", "Entra21.ExerciciosWhile\Entra21.ExerciciosWhile.csproj", "{12899B4D-1761-4E41-9384-9C866B989F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExerciciosForVetor", "Entra21.ExerciciosForVetor\Entra21.ExerciciosForVetor.csproj", "{AD545B5D-86C2-462C-B58C-217ED3852BE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{12899B4D-1761-4E41-9384-9C866B989F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12899B4D-1761-4E41-9384-9C866B989F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12899B4D-1761-4E41-9384-9C866B989F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
