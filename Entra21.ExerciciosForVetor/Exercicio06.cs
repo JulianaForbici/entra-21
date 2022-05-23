@@ -18,6 +18,7 @@ namespace Entra21.ExerciciosForVetor
                 Console.Write("Digite a idade: ");
                 idade[0] = Convert.ToInt32(Console.ReadLine());
                 Console.Clear();
+                Console.WriteLine("Sua idade é: " + idade[0]);
             }
 
         }

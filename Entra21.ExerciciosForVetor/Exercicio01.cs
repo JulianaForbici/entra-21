@@ -13,7 +13,7 @@ namespace Entra21.ExerciciosForVetor
             //Criar um vetor para guardar 16 números inteiros e apresentar a soma dos números ao final.
 
             int[] numeros = new int[15];
-            for (var i = 0; i < numeros.Length; i++) 
+            for (var i = 0; i < numeros.Length; i++)
             { 
 
             Console.Write("Digite o número: ");
