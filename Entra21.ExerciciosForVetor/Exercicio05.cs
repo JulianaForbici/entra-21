@@ -8,7 +8,7 @@ namespace Entra21.ExerciciosForVetor
 {
     internal class Exercicio05
     {
-        public void Executar()
+        public void Executar() 
         {
             //Solicite para o usuário 5 pesos e apresente a soma total dos pesos e a média dos pesos.
 
