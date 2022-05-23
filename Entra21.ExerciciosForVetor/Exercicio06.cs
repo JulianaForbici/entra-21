@@ -10,6 +10,15 @@ namespace Entra21.ExerciciosForVetor
     {
         public void Executar()
         {
+            //Solicite a idade de 9 pessoas, apresente ao final a pessoa com a maior idade.
+            
+            int[] idade = new int[9];
+              for (var i = 0; i < idade.Length; i++)
+            {
+                Console.Write("Digite a idade: ");
+                idade[0] = Convert.ToInt32(Console.ReadLine());
+                Console.Clear();
+            }
 
         }
     }
