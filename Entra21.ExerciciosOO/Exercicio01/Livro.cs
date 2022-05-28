@@ -16,11 +16,16 @@ namespace Entra21.ExerciciosOO.Exercicio01
         public int QuantidadePaginas;
         public int QuantidadePaginasLidas;
         public int QuantidadeReleituras;
-        public string ObterAutorTitulo()
+        public string ObterAutor()
         {
-            var texto = Autor + Titulo;
+            var texto = Autor;
 
             return texto;
+        }
+        public string ObterTitulo()
+        {
+            var textinho = Titulo;
+            return textinho;
         }
         public int ObterQuantidadePaginas()
         {

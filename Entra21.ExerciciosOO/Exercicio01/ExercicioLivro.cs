@@ -30,7 +30,8 @@ namespace Entra21.ExerciciosOO.Exercicio01
 
             Console.Clear();
 
-            Console.WriteLine("O nome do livro e seu respectivo autor é: " + livro.ObterAutorTitulo());
+            Console.WriteLine("O título do livro é: " + livro.ObterTitulo());
+            Console.Write("O autor do livro é: " + livro.ObterAutor());
             Console.WriteLine("A quantidade de páginas lida foi: " + livro.ObterToTalPaginasLidas());
             Console.WriteLine("A quantidade de páginas que faltam para terminar: " + livro.ObterQuantidadePaginas());
         }
