@@ -12,14 +12,5 @@ namespace Entra21.ExerciciosOO.Exercicio02
         public string TemperaturaDestino;
         public double TemperaturaValor;
 
-        public string ObterCelsiusParaKelvin()
-        {
-            
-        }
-        public string ObterKelvinParaCelsius()
-        {
-
-        }
-        public 
     }
 }

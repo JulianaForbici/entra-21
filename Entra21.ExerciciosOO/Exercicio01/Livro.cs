@@ -39,5 +39,9 @@ namespace Entra21.ExerciciosOO.Exercicio01
 
             return paginasLidas;
         }
+        public int ObterAnosPublicacao()
+        {
+            var anos = DateTime.DataDeLancamento - DateTime.Now;
+        }
     }
 }
