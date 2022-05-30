@@ -11,17 +11,15 @@ namespace Entra21.ExerciciosOO.Exercicio02
         public void Executar()
         {
             Temperatura temperatura = new Temperatura();
-    
-            Console.Write("Temperatura Origem: "); 
-            temperatura.TemperaturaOrigem = Console.ReadLine();
-            Console.Write("Temperatura Destino: ");
-            temperatura.TemperaturaDestino = Console.ReadLine();
+            Console.WriteLine("Informe a temperatura origem: ");
+            temperatura.TemperaturaOrigem = Console.ReadLine().ToLower();      
+           Console.WriteLine("Informe a temperatura de destino: ");
+            temperatura.TemperaturaDestino = Console.ReadLine().ToLower();      
+            var novaTemperatura = temperatura.ObterTemperaturaConvertida();
+            Console.WriteLine(novaTemperatura);
            
-            //calcular e converter
 
-            {
-
-            }
+       
         }
     
       
