@@ -10,6 +10,8 @@ namespace Entra21.ExerciciosOO
     {
         public void Executar()
         {
+            Compra compra = new Compra();
+            Console.WriteLine("")
 
         }
     }

@@ -10,7 +10,10 @@ namespace Entra21.ExerciciosOO
     {
         public void Executar()
         {
-
+            Conversor conversor = new Conversor();
+            Console.Write("Digite o número do código ascii e mostraremos seu respectivo caracter: ");
+            conversor.Caracter = Console.ReadLine();
+             
         }
     }
 }

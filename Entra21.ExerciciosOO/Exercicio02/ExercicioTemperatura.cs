@@ -13,16 +13,10 @@ namespace Entra21.ExerciciosOO.Exercicio02
             Temperatura temperatura = new Temperatura();
             Console.WriteLine("Informe a temperatura origem: ");
             temperatura.TemperaturaOrigem = Console.ReadLine().ToLower();      
-           Console.WriteLine("Informe a temperatura de destino: ");
+            Console.WriteLine("Informe a temperatura de destino: ");
             temperatura.TemperaturaDestino = Console.ReadLine().ToLower();      
             var novaTemperatura = temperatura.ObterTemperaturaConvertida();
             Console.WriteLine(novaTemperatura);
-           
-
-       
         }
-    
-      
-
     }
 }
