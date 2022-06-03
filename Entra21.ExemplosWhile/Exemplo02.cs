@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Entra21.ExemplosWhile
-{
+{ 
     internal class Exemplo02
     {
         public void Executar()
