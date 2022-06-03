@@ -12,7 +12,7 @@ namespace Entra21.ExemplosWhile
         {
 
 
-            int somaIdades = 0;
+            int somaIdades = 0; 
             int indice = 0;
             int maiorIdade = -200;
             int menorIdade = 200;
