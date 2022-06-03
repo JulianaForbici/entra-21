@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Entra21.ExemplosWhile
-{
+{ 
     // Classe => PascalCase
     internal class Exemplo01
     {
