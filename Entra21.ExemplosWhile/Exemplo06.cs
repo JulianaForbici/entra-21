@@ -11,7 +11,7 @@ namespace Entra21.ExemplosWhile
         public void Executar()
         {
             int indice1 = 0;
-            int indice2 = 0;
+            int indice2 = 0; 
 
             while (indice1 <= 10)
                 while (indice2 <= 10)
