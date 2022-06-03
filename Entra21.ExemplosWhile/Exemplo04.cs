@@ -10,7 +10,7 @@ namespace Entra21.ExemplosWhile
     {
         public void Executar()
         {
-            string texto = "";
+            string texto = ""; 
             string nome = "";
             while (nome != "fim")
             {
