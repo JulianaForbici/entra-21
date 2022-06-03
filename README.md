@@ -5,4 +5,6 @@ Meu nome é Juliana Forbici, tenho 16 anos e estou estudando C# para futuramente
 # O que é?
 Repositório feito para armazenar trabalhos, exemplos e exercícios propostos ou vistos em sala de aula.
 # Tecnologias Utilizadas
-
+Visual Studio 2022;
+.NET 6.0;
+GitHub.
