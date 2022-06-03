@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entra21.ExemplosWhile
 {
     internal class Exemplo03
-    {
+    { 
         public void Executar()
         {
             string nome = "";
