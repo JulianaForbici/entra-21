@@ -8,3 +8,4 @@ Repositório feito para armazenar trabalhos, exemplos e exercícios propostos ou
 Visual Studio 2022;
 .NET 6.0;
 GitHub.
+> :construction: Projeto em construção :construction:
