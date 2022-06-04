@@ -9,4 +9,4 @@ Visual Studio 2022;
 .NET 6.0;
 GitHub.
 <h1 align="center"> > :construction: Projeto em construção :construction: </h1>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JulianaForbici/JulianaForbici/blob/output/github-contribution-grid-snake.svg)
