@@ -36,7 +36,8 @@ jobs:
           echo test, and deploy your project.
           name: Generate Datas
 
-on:
+on: JulianaForbici
+
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
