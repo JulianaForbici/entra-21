@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosWhile", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosForVetor", "Entra21.ExerciciosForVetor\Entra21.ExerciciosForVetor.csproj", "{AD545B5D-86C2-462C-B58C-217ED3852BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExerciciosOO", "Entra21.ExerciciosOO\Entra21.ExerciciosOO.csproj", "{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosOO", "Entra21.ExerciciosOO\Entra21.ExerciciosOO.csproj", "{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemploOrientacaoObjetos", "entra21.ExemploOrientacaoObjetos\Entra21.ExemploOrientacaoObjetos.csproj", "{6DFC18CE-6F27-4476-B33C-50ED082ADDF9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "entra21.ExemploOrientacaoObjetos.Tests", "entra21.ExemploOrientacaoObjetos.Tests\entra21.ExemploOrientacaoObjetos.Tests.csproj", "{D535301E-00EC-4899-A66C-31050D9121C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entra21.ExerciciosListas", "Entra21.ExerciciosListas", "{DA17E00C-C06E-4F93-9449-ECF66B005C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExerciciosListas", "Entra21.ExerciciosListas\Entra21.ExerciciosListas.csproj", "{E717109E-CC43-48B6-A5DE-2978FAC36021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,9 +49,16 @@ Global
 		{D535301E-00EC-4899-A66C-31050D9121C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D535301E-00EC-4899-A66C-31050D9121C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D535301E-00EC-4899-A66C-31050D9121C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E717109E-CC43-48B6-A5DE-2978FAC36021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E717109E-CC43-48B6-A5DE-2978FAC36021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E717109E-CC43-48B6-A5DE-2978FAC36021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E717109E-CC43-48B6-A5DE-2978FAC36021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E717109E-CC43-48B6-A5DE-2978FAC36021} = {DA17E00C-C06E-4F93-9449-ECF66B005C80}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0AD09C61-D5B3-4DB0-B5C3-F7114572748D}
