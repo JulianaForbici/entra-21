@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Entra21.ExemploListaObjetos
 {
-    internal class ProdutoLocalizacao
+      
+    internal enum ProdutoLocalizacao
     {
+        AreaVenda,
+        Loja,
+        Armazem
     }
 }
+    
+
