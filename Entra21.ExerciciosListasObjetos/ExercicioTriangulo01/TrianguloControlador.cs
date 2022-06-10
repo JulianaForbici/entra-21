@@ -11,6 +11,10 @@ namespace Entra21.ExerciciosListasObjetos
         public void GerenciarMenu()
         {
             int codigo = 0;
-            while(codigo != 5)
+            while (codigo != 5)
             {
-               
+
+            }
+        }
+    }
+}
