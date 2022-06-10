@@ -1,4 +1,4 @@
-﻿using ConsoleApp1;
+﻿using Entra21.ExemplosListaObjetos;
 
-Produto.
-          
+ProdutoControlador controlador = new ProdutoControlador();
+controlador.GerenciarMenu();   
