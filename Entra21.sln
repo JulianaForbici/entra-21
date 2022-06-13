@@ -9,13 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosWhile", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosForVetor", "Entra21.ExerciciosForVetor\Entra21.ExerciciosForVetor.csproj", "{AD545B5D-86C2-462C-B58C-217ED3852BE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosOrientacaoObjetos", "Entra21.ExerciciosOO\Entra21.ExerciciosOrientacaoObjetos.csproj", "{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemploOrientacaoObjetos", "entra21.ExemploOrientacaoObjetos\Entra21.ExemploOrientacaoObjetos.csproj", "{6DFC18CE-6F27-4476-B33C-50ED082ADDF9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemploOrientacaoObjetos.Tests", "entra21.ExemploOrientacaoObjetos.Tests\Entra21.ExemploOrientacaoObjetos.Tests.csproj", "{D535301E-00EC-4899-A66C-31050D9121C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExemploListaObjetos", "Entra21.ExemploListaObjetos\Entra21.ExemploListaObjetos.csproj", "{2961BA4C-D2F8-42A8-9D3C-AD5E6B3E07BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemploListaObjetos", "Entra21.ExemploListaObjetos\Entra21.ExemploListaObjetos.csproj", "{2961BA4C-D2F8-42A8-9D3C-AD5E6B3E07BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExerciciosListaObjetos", "Entra21.ExerciciosListaObjetos\Entra21.ExerciciosListaObjetos.csproj", "{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,6 @@ Global
 		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD545B5D-86C2-462C-B58C-217ED3852BE4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4E7994F-F821-4981-96E6-B05F6C1DB1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6DFC18CE-6F27-4476-B33C-50ED082ADDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6DFC18CE-6F27-4476-B33C-50ED082ADDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DFC18CE-6F27-4476-B33C-50ED082ADDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{2961BA4C-D2F8-42A8-9D3C-AD5E6B3E07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2961BA4C-D2F8-42A8-9D3C-AD5E6B3E07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2961BA4C-D2F8-42A8-9D3C-AD5E6B3E07BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

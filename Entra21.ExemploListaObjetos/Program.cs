@@ -1,4 +1,4 @@
-﻿using Entra21.ExemplosListaObjetos;
+﻿using Entra21.ExemploListaObjetos;
 
 ProdutoControlador controlador = new ProdutoControlador();
 controlador.GerenciarMenu();   

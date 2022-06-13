@@ -72,7 +72,7 @@ namespace Entra21.ExemploListaObjetos
                     Nome: {produto.Nome}
                     Preço Unitário: {produto.PrecoUnitario}
                     Quantidade: {produto.Quantidade}
-                    Total: {produto.CalcularPrecoTotal()}");"
+                    Total: {produto.CalcularPrecoTotal()}");
             }
             private void Apagar()
             {
@@ -174,7 +174,7 @@ namespace Entra21.ExemploListaObjetos
             var localizacaoProduto = ObterLocalizacaoProduto(localizacao);
 
 
-            proodutoServico.Adicionar(nome, precoUnitario, localizacaoProduto, quantidade);
+            produtoServico.Adicionar(nome, precoUnitario, localizacaoProduto, quantidade);
 
             private ProdutoLocalizacao ObterLocalizacaoProduto(string localizacao)
                 

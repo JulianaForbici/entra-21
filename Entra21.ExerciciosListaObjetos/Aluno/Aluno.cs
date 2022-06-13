@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProdutoLocalizacao.cs
+namespace Entra21.ExerciciosListaObjetos
 {
-    internal class ProdutoLocalizacao
+    internal class Aluno
     {
+
     }
 }
