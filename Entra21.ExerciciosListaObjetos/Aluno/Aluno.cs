@@ -13,5 +13,10 @@ namespace Entra21.ExerciciosListaObjetos
         public double Nota2;
         public double Nota3;
         
+        public double CalcularMediaTotal()
+        {
+            var media = Nota1 + Nota2 + Nota3 / 3;
+        }
+        
     }
 }
