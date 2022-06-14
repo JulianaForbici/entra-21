@@ -8,6 +8,10 @@ namespace Entra21.ExerciciosListaObjetos
 {
     internal class Aluno
     {
-
+        public string Cadastrar;
+        public double Nota1;
+        public double Nota2;
+        public double Nota3;
+        
     }
 }

@@ -20,7 +20,7 @@ namespace Entra21.ExerciciosListaObjetos
         }
         public void Cadastrar()
         {
-            Console.Write("Lado 1: ");
+            Console.Write("Lado 1: "); 
             var nome1 = Console.ReadLine();  
 
             Console.Write("Lado 2: ");
@@ -31,7 +31,7 @@ namespace Entra21.ExerciciosListaObjetos
         }
         public void Editar()
         {
-
+          
         }
         public void Apagar()
         {
@@ -89,6 +89,7 @@ namespace Entra21.ExerciciosListaObjetos
         }
     }
 }
+// usar try catch e bool 
                 
 
 
