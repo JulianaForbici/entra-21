@@ -9,34 +9,67 @@ namespace Entra21.ExerciciosListaObjetos
     internal class TrianguloController
     {
         private TrianguloServico trianguloServico = new TrianguloServico();
-
+        
         public void GerenciarMenu()
         {
+            Cadastrar();
+            Editar();
+            Apagar();
+            ApresentarTodos();
+            ApresentarTriangulo();
+        }
+        public void Cadastrar()
+        {
+            Console.Write("Lado 1: ");
+            var nome1 = Console.ReadLine();  
+
+            Console.Write("Lado 2: ");
+            var nome2 = Console.ReadLine();
+
+            Console.WriteLine("Lado 3: ");
+            var nome3 = Console.ReadLine(); 
+        }
+        public void Editar()
+        {
+
+        }
+        public void Apagar()
+        {
+
+        }
+        public void ApresentarTodos()
+        {
+
+        }
+        public void ApresentarTriangulo()
+        {
+
+        }
             int codigo = 0;
 
             while (codigo != 6)
             {
-                //    codigo = ApresentarMenu();
+                 codigo = ApresentarMenu();
 
                 if (codigo == 1)
                 {
-                    // Cadastrar();
+                     Cadastrar();
                 }
                 else if (codigo == 2)
                 {
-                    //  Editar();
+                     Editar();
                 }
                 else if (codigo == 3)
                 {
-                    //   Apagar();
+                     Apagar();
                 }
                 else if (codigo == 4)
                 {
-                    //   ApresentarTodos();
+                    ApresentarTodos();
                 }
                 else if (codigo == 5)
                 {
-                    // ApresentarTriangulo();
+                    ApresentarTriangulo();
                 }
                 else
                 {
