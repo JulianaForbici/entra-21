@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemploListaObjetos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExerciciosListaObjetos", "Entra21.ExerciciosListaObjetos\Entra21.ExerciciosListaObjetos.csproj", "{D664DAF8-9C4F-4FCF-B234-D64499A3B0A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.ExemplosWindowsForms", "Entra21.ExemplosWindowsForms\Entra21.ExemplosWindowsForms.csproj", "{79CE39F3-0831-4821-9F14-6EF64DB26848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entra21.ExemplosWindowsForms", "Entra21.ExemplosWindowsForms\Entra21.ExemplosWindowsForms.csproj", "{79CE39F3-0831-4821-9F14-6EF64DB26848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entra21.BancoDados01.Ado.Nett", "Entra21.BancoDados01.Ado.Nett\Entra21.BancoDados01.Ado.Nett.csproj", "{D813DD02-EF32-4920-B4DA-C62C05500BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{79CE39F3-0831-4821-9F14-6EF64DB26848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79CE39F3-0831-4821-9F14-6EF64DB26848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79CE39F3-0831-4821-9F14-6EF64DB26848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D813DD02-EF32-4920-B4DA-C62C05500BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D813DD02-EF32-4920-B4DA-C62C05500BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D813DD02-EF32-4920-B4DA-C62C05500BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D813DD02-EF32-4920-B4DA-C62C05500BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
